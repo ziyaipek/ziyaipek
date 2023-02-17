@@ -13,30 +13,22 @@
 
 <h3 align="left">Software and Tools</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,qt,nodejs,docker,kubernetes,hibernate,ipfs,html,css,heroku,ai,ps" />
-  </a>
 </p>
 
 <h3 align="left">Framework & Libraries</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
-  </a>
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,js,python" />
-  </a>
 </p>
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  </a>
 </p>
    
 
