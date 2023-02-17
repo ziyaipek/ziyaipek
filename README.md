@@ -14,14 +14,14 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,stackoverflow,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,stackoverflow,visualstudio,vscode,ai,ps" />
   </a>
 </p>
 
 <h3 align="left">Framework & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=dotnet," />
   </a>
 </p>
 
