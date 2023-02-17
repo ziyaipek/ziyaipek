@@ -14,14 +14,14 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,stackoverflow,visualstudio,vscode,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,linux,qt,nodejs,docker,kubernetes,hibernate,ipfs,html,css,heroku,ai,ps" />
   </a>
 </p>
 
 <h3 align="left">Framework & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet," />
+    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<h3 align="left">Database</h3>
+<h3 align="left">Databases</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
@@ -46,6 +46,15 @@
   <a href="https://www.linkedin.com/in/ziya-ipek">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+   <a href="https://github.com/ziyaipek">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/21111225/ziya-ipek">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+  
 </p>
 
 </br>
