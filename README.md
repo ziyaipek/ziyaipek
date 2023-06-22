@@ -71,6 +71,4 @@
   />
 </picture>
 
-![Snake animation](https://svgshare.com/i/_CU.svg)
-
 <br>
