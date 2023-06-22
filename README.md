@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F733&width=435&lines=Hi!+Welcome+to+My+Profile.)](https://git.io/typing-svg)
+
 <h2> About Me </h2>
 
 
