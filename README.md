@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F733&width=435&lines=Hi!+Welcome+to+My+Profile.)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F733&width=435&lines=Hi!+Welcome+to+My+Profile.)
 
 <h2> About Me </h2>
 
